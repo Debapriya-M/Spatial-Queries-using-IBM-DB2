@@ -1,0 +1,30 @@
+
+Solution for Q4:
+
+
+Part 1:
+Time for executing Q2 With index:
+
+real	0m0.219s
+user	0m0.016s
+sys	0m0.020s
+
+Time for executing Q2 Without index:
+real	0m0.240s
+user	0m0.016s
+sys	0m0.023s
+
+
+Part 2:
+Time for executing Q3 With index:
+210 record(s) selected.
+
+real	0m2.013s
+user	0m0.014s
+sys	0m0.028s
+
+
+Time for executing Q3 Without index:
+real	0m2.037s
+user	0m0.020s
+sys	0m0.031s
